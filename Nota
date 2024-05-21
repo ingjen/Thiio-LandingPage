@@ -1,0 +1,17 @@
+:root {
+
+/* Colors: */
+--unnamed-color-e3f8ff: #E3F8FF;
+--unnamed-color-b3ecff: #B3ECFF;
+--unnamed-color-5ed0fa: #5ED0FA;
+--unnamed-color-2bb0ed: #2BB0ED;
+--unnamed-color-127fbf: #127FBF;
+--unnamed-color-035388: #035388;
+--unnamed-color-f0f4f8: #F0F4F8;
+--unnamed-color-d9e2ec: #D9E2EC;
+--unnamed-color-bcccdc: #BCCCDC;
+--unnamed-color-9fb3c8: #9FB3C8;
+--unnamed-color-627d98: #627D98;
+--unnamed-color-334e68: #334E68;
+--unnamed-color-243b53: #243B53;
+}
