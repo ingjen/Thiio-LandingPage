@@ -1,0 +1,106 @@
+.body {}
+
+.body .R1 {
+    background-color: #005248;
+    width: auto;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body .R1 .span {
+    text-align: center;
+    font: normal normal normal 16px/28px Open Sans;
+    letter-spacing: 0.24px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.header {
+    background-color: #FFFFFF;
+    width: auto;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.header .company {
+    top: 78px;
+    left: 319px;
+    width: 202px;
+    height: 24px;
+    text-align: left;
+    font: normal normal bold 20px/22px Montserrat;
+    letter-spacing: 1.5px;
+    color: #333333;
+    opacity: 1;
+}
+
+.header .mail {
+    top: 80px;
+    left: 802px;
+    width: 172px;
+    height: 19px;
+    text-align: left;
+    font: normal normal normal 14px/20px Open Sans;
+    letter-spacing: 1.05px;
+    color: #333333;
+    opacity: 1;
+}
+
+.header .phone {
+    top: 80px;
+    left: 1041px;
+    width: 127px;
+    height: 19px;
+    text-align: left;
+    font: normal normal normal 14px/18px Open Sans;
+    letter-spacing: 1.05px;
+    color: #333333;
+    opacity: 1;
+}
+
+.header .button {
+    top: 63px;
+    left: 1381px;
+    width: 220px;
+    height: 55px;
+    background: transparent linear-gradient(180deg, #F2CA7F 0%, #FA991C 100%) 0% 0% no-repeat padding-box;
+    border: 3px solid #F2CA7F;
+    border-radius: 8px;
+    opacity: 1;
+    text-align: center;
+    font: normal normal bold 18px/24px Open Sans;
+    letter-spacing: 0.27px;
+    color: #FFFFFF;
+    text-shadow: 0px 0px 3px #46424066;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.header .button .cart {
+    margin-right: 5px;
+}
+
+.portada {
+    background-image: url(Photos/background_banner.png);
+}
+
+.portada .botellas {
+    width: 465px;
+    height: 502px;
+}
+
+.portada .titulo {
+    text-align: left;
+    font: normal normal bold 18px/28px Open Sans;
+    letter-spacing: 0.72px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.portada .h1 {
+    
+}
